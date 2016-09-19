@@ -3,6 +3,9 @@ This repository
 Pull requests
 Issues
 Gist
+
+I did a av_get_channel_layout_string
+
  @RobinKaul
  Watch 600
   Star 5,058
